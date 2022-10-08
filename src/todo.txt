@@ -1,6 +1,0 @@
-
-Actually fix the ring control that we've had for like forever
-
-DO MY OWN IMU HEADING BY TAKING THE ROTATION OF THE TWO AND MODULING IT
-
-find out why resetting the imu bricks the first movement
